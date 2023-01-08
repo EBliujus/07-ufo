@@ -23,15 +23,19 @@
     line-height: 0.7em;
 }
 .description {
-    font-size: 20px;
+    font-size: 30px;
 }
 .button {
     display: inline-block;
     background-color: #FFFDFA;
     color: #92ADC4;
-    padding: 15px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 0.9em;
+    padding-left: 1.8em;
+    padding-right: 1.8em;
     text-decoration: none;
     text-transform: capitalize;
+    font-size: 16px;
+    line-height: 1.2em;
+    border-radius: 2em;
+    border: 0.15em solid #2B9BF1
 }
